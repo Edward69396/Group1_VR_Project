@@ -837,8 +837,6 @@ GameObject:
   - component: {fileID: 6966226065256375721}
   - component: {fileID: 6232745470614056090}
   - component: {fileID: 6232745470614056095}
-  - component: {fileID: 7146918127337414269}
-  - component: {fileID: 8748069277734050662}
   m_Layer: 2
   m_Name: XR Origin Preconfigured
   m_TagString: Untagged
@@ -1101,32 +1099,6 @@ MonoBehaviour:
   m_LocomotionProvider: {fileID: 6232745470614056091}
   m_MinHeight: 0
   m_MaxHeight: Infinity
---- !u!114 &7146918127337414269
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1717954561962503725}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d3adeb26f61e354e88d4895a3273aaa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  forceApplied: 50
---- !u!114 &8748069277734050662
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1717954561962503725}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d3adeb26f61e354e88d4895a3273aaa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  forceApplied: 50
 --- !u!1001 &910233474710015122
 PrefabInstance:
   m_ObjectHideFlags: 0
